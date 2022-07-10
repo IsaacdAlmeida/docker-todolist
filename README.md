@@ -11,6 +11,7 @@ O projeto tem uma aplicação desenvolvida em React pela Trybe, desenvolvi arqui
 - [Aprendizados](#aprendizados)
 - [Instruções para utilizar a aplicação](#instruções-para-utilizar-a-aplicação)
 - [Disclaimer](#disclaimer)
+- [Histórico de Commits](#histórico-de-commits)
 
 ## Tecnologias utilizada
 
@@ -31,3 +32,11 @@ Você poderá utilizar o comando `npm start` para exibir a página da aplicaçã
 ## Disclaimer
 
 A aplicação em react foi toda desenvolvida pela Trybe, fui responsável por criar os arquivos e comandos para a montar o container utilizando docker!
+
+## Histórico de commits
+
+Você pode verificar todo o histório de commits para saber como a aplicação foi desenvolvida passo a passo, todos eles foram feitos com base no guia de [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), mantendo uma organização e descrição objetiva do que foi feito a cada mudança!
+***
+  <a href="https://www.linkedin.com/in/isaacalmeidafilho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
